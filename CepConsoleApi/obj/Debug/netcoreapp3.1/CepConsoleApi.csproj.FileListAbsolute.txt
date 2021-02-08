@@ -1,0 +1,36 @@
+C:\Users\FabioPerucelloArante\Desktop\API Bradesco\CepConsoleApi\CepConsoleApi\bin\Debug\netcoreapp3.1\CepConsoleApi.exe
+C:\Users\FabioPerucelloArante\Desktop\API Bradesco\CepConsoleApi\CepConsoleApi\bin\Debug\netcoreapp3.1\CepConsoleApi.deps.json
+C:\Users\FabioPerucelloArante\Desktop\API Bradesco\CepConsoleApi\CepConsoleApi\bin\Debug\netcoreapp3.1\CepConsoleApi.runtimeconfig.json
+C:\Users\FabioPerucelloArante\Desktop\API Bradesco\CepConsoleApi\CepConsoleApi\bin\Debug\netcoreapp3.1\CepConsoleApi.runtimeconfig.dev.json
+C:\Users\FabioPerucelloArante\Desktop\API Bradesco\CepConsoleApi\CepConsoleApi\bin\Debug\netcoreapp3.1\CepConsoleApi.dll
+C:\Users\FabioPerucelloArante\Desktop\API Bradesco\CepConsoleApi\CepConsoleApi\bin\Debug\netcoreapp3.1\CepConsoleApi.pdb
+C:\Users\FabioPerucelloArante\Desktop\API Bradesco\CepConsoleApi\CepConsoleApi\obj\Debug\netcoreapp3.1\CepConsoleApi.csprojAssemblyReference.cache
+C:\Users\FabioPerucelloArante\Desktop\API Bradesco\CepConsoleApi\CepConsoleApi\obj\Debug\netcoreapp3.1\CepConsoleApi.AssemblyInfoInputs.cache
+C:\Users\FabioPerucelloArante\Desktop\API Bradesco\CepConsoleApi\CepConsoleApi\obj\Debug\netcoreapp3.1\CepConsoleApi.AssemblyInfo.cs
+C:\Users\FabioPerucelloArante\Desktop\API Bradesco\CepConsoleApi\CepConsoleApi\obj\Debug\netcoreapp3.1\CepConsoleApi.csproj.CoreCompileInputs.cache
+C:\Users\FabioPerucelloArante\Desktop\API Bradesco\CepConsoleApi\CepConsoleApi\obj\Debug\netcoreapp3.1\CepConsoleApi.dll
+C:\Users\FabioPerucelloArante\Desktop\API Bradesco\CepConsoleApi\CepConsoleApi\obj\Debug\netcoreapp3.1\CepConsoleApi.pdb
+C:\Users\FabioPerucelloArante\Desktop\API Bradesco\CepConsoleApi\CepConsoleApi\obj\Debug\netcoreapp3.1\CepConsoleApi.genruntimeconfig.cache
+C:\Users\FabioPerucelloArante\Desktop\API Bradesco\CepConsoleApi\CepConsoleApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\FabioPerucelloArante\Desktop\API Bradesco\CepConsoleApi\CepConsoleApi\bin\Debug\netcoreapp3.1\Refit.dll
+C:\Users\FabioPerucelloArante\Desktop\API Bradesco\CepConsoleApi\CepConsoleApi\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\FabioPerucelloArante\Desktop\API Bradesco\CepConsoleApi\CepConsoleApi\obj\Debug\netcoreapp3.1\RefitStubs.g.cs
+C:\Users\FabioPerucelloArante\Desktop\API Bradesco\CepConsoleApi\CepConsoleApi\obj\Debug\netcoreapp3.1\CepConsoleApi.csproj.CopyComplete
+C:\Users\Usuario\Desktop\CepConsoleApi\CepConsoleApi\bin\Debug\netcoreapp3.1\CepConsoleApi.exe
+C:\Users\Usuario\Desktop\CepConsoleApi\CepConsoleApi\bin\Debug\netcoreapp3.1\CepConsoleApi.deps.json
+C:\Users\Usuario\Desktop\CepConsoleApi\CepConsoleApi\bin\Debug\netcoreapp3.1\CepConsoleApi.runtimeconfig.json
+C:\Users\Usuario\Desktop\CepConsoleApi\CepConsoleApi\bin\Debug\netcoreapp3.1\CepConsoleApi.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\CepConsoleApi\CepConsoleApi\bin\Debug\netcoreapp3.1\CepConsoleApi.dll
+C:\Users\Usuario\Desktop\CepConsoleApi\CepConsoleApi\bin\Debug\netcoreapp3.1\CepConsoleApi.pdb
+C:\Users\Usuario\Desktop\CepConsoleApi\CepConsoleApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\CepConsoleApi\CepConsoleApi\bin\Debug\netcoreapp3.1\Refit.dll
+C:\Users\Usuario\Desktop\CepConsoleApi\CepConsoleApi\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Usuario\Desktop\CepConsoleApi\CepConsoleApi\obj\Debug\netcoreapp3.1\CepConsoleApi.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\CepConsoleApi\CepConsoleApi\obj\Debug\netcoreapp3.1\RefitStubs.g.cs
+C:\Users\Usuario\Desktop\CepConsoleApi\CepConsoleApi\obj\Debug\netcoreapp3.1\CepConsoleApi.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\CepConsoleApi\CepConsoleApi\obj\Debug\netcoreapp3.1\CepConsoleApi.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\CepConsoleApi\CepConsoleApi\obj\Debug\netcoreapp3.1\CepConsoleApi.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\CepConsoleApi\CepConsoleApi\obj\Debug\netcoreapp3.1\CepConsoleApi.csproj.CopyComplete
+C:\Users\Usuario\Desktop\CepConsoleApi\CepConsoleApi\obj\Debug\netcoreapp3.1\CepConsoleApi.dll
+C:\Users\Usuario\Desktop\CepConsoleApi\CepConsoleApi\obj\Debug\netcoreapp3.1\CepConsoleApi.pdb
+C:\Users\Usuario\Desktop\CepConsoleApi\CepConsoleApi\obj\Debug\netcoreapp3.1\CepConsoleApi.genruntimeconfig.cache

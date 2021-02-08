@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9R2T5XwtgR6L6higqmnx5AcW/SLbzpuReT/NsYRuGoNhfapWKzVdkVSY+IphqieeVX6IgNlwRBuiUv6hDeVNzg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\CepConsoleApi\\CepConsoleApi\\CepConsoleApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\refit\\5.2.4\\refit.5.2.4.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}
